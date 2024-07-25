@@ -1,5 +1,5 @@
 words={
-      "paus"   :"rain",
+      "barish"   :"rain",
       "khurchi" :"chair",
       "chuha"   :"mouse"
       }
